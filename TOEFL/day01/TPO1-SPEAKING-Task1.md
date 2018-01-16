@@ -1,0 +1,4 @@
+## Question
+Talk about a book you have read that was important to you for some reason. Explain why the book was important to you. Give specific details and examples to explain your answer
+## Answer
+Recently, I read a book named Keep the aspidistra flying written by George Orwell. The book influences me a lot because the story has something that touches my heart. The story talks about a man who wants to be a poet and who abandons many well-paying jobs to pursue his dream of being a poet. I have a similar experience of quitting a very good job in order to be a writer. Also, the man in the story is lack of money because he works as a bookstore assistant and thus has a very low salary. He lives in a shabby apartment and sometimes have no money to buy food. Again, I’ve got similar experience. I once lived in a cramped apartment alone and had no money. The book is important to me because it touches me and gives me encouragement to persist.
