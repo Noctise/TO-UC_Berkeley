@@ -1,0 +1,9 @@
+> Listen
+
+One process by which groups may make bad or irrational decisions is known as groupthink. Individual members of a group attempt to conform their opinions to what they believe to be the group consensus even though the result may be negative. There are many reasons why groupthink happens. These include the desire to be liked, fear of losing a job, or even not wanting to be the one employee delaying a decision that seems inevitable. These kinds of implicit pressures to conform lead group members to ultimately make decisions that each, by himself or herself, might normally not make.
+> QUESTION
+
+Explain groupthink and its effects. Using the example of the computer company.
+> ANSWER
+
+Group think is a process by which groups may make bad or irrational decisions as its members try to conform to the assumed group consensus. And the professor takes his own experience in a computer company a couple of years ago. One day he and his co-worker proposed to change the design of their computer to attract more customers. This suggestion was first supported by most of the group while rejected by a few senior managers who thought the move was unnecessary. But then many of the group, including his co-worker, began to change their mind because they didn't want to ruin their chances of promotion by disagreeing with the senior managers. So finally there was only the professor who held up the vote, and he began to doubt whether his insistence was worthwhile. As all people sided with the senior managers, he gave up this idea and the whole group decided to stay with the current design. However, this decision cost them a lot of money as their competitors adopted a new design on the same year which won over their customers. (182 words)
