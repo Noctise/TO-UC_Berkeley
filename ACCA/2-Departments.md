@@ -127,3 +127,75 @@ Action: an actual purchase
 product in its early stages.
 
 **Skimming**: prices are set to cream off the highest level of profits even though this restricts the number of people able to afford the product.
+
+## NOTE
+1.Please try to understand the following concepts
+
+Pure research
+
+Applied research
+
+Development
+
+Product research
+
+Process research
+
+2.Please try to learn the following thoeries
+
+The purchasing mix
+
+Production management decisions
+
+The nature of services
+
+Marketing orientation
+
+Marketing mix
+
+## Practise
+7.8 The research and development (R & D) function of a business:
+
+(i) Is primarily concerned with market research
+
+(ii) Can improve existing products as well as developing completely new products
+
+(iii) Has been less important for firms manufacturing computers to meet an industry standard than for
+those firms developing the next generation of computers
+
+(iv) Is always undertaken under contract by specialist external consultancies
+
+Which of the above statements are correct?
+
+A (i) and (ii) only
+
+B (ii) and (iii) only
+
+C (i), (iii) and (iv) only
+
+D (ii) and (iv) only (2 marks)
+
+7.9 Services have certain qualities which distinguish them from products. Because of their
+........................................ , physical elements such as vouchers, tickets, confirmations and
+merchandise are an important part of service provision.
+
+Which of the following words most accurately completes the sentence?
+
+A Intangibility
+
+B Inseparability
+
+C Variability
+
+D Perishability (2 marks)
+
+7.10 U Ltd produces a portfolio of products and focuses its efforts and resources on persuading customers to
+buy them.
+
+This is an example of which type of 'orientation'?
+
+A Production
+
+B Sales
+
+C Marketing (1 mark)

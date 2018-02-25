@@ -112,15 +112,131 @@ rather than outside investors.
 
 ## Note
 
-1.Please try to define the following conceptsorganisationlimited (liability) companyprivate sectorpublic sectorco-operatives
-2.Please try to understand the following conceptsmutual associationspublic limited companyprofit orientatednon-governmental organisationsynergyprivate limited company
-3.Please try to learn the following thoeriesWhy do organisations exist?How organisations differ？What the organisation does？Profit vs not-for-profit orientationDifferences between private limited company and 
+1.Please try to define the following concepts
+
+organisation
+
+limited (liability) company
+
+private sector
+
+public sector
+
+co-operatives
+
+2.Please try to understand the following concepts
+
+mutual associations
 
 public limited company
+
+profit orientated
+
+non-governmental organisation
+
+synergy
+
+private limited company
+
+3.Please try to learn the following thoeries
+
+Why do organisations exist?
+
+How organisations differ？
+
+What the organisation does？
+
+Profit vs not-for-profit orientation
+
+Differences between private limited company and public limited company
+
 ## Practise
 
-1.1 'An organisation is a social arrangement which pursues collective........................................, whichcontrols its own performance and which has a boundary separating it from its environment.'Which of the following words best completes this sentence?A Profits B StakeholdersC Goals D Tactics (2 marks)1.2 What is the term given to the idea that the combined output of a number of individuals working togetherwill exceed that of the same individuals working separately?A Sympathy B SpecialisationC Synergy D Systems thinking (2 marks)1.3 Which one of the following statements is true?A Limited company status means that a company is only allowed to trade up to a predeterminedturnover level in any one year.B For organisations that have limited company status, ownership and control are legally separate.C The benefit of being a sole trader is that you have no personal liability for the debts of yourbusiness.D Ordinary partnerships offer the same benefits as limited companies but are usually formed byprofessionals such as doctors and solicitors. (2 marks)1.4 An organisation is owned and run by central government agencies. The organisation is best described as
-which of the following statements?A A voluntary sector organisationB A private sector organisationC A public sector organisation (1 mark)1.5 Which of the following groups may be considered to be stakeholders in the activities of a nuclear powerstation?(i) The government(ii) Environmental pressure groups(iii) Employees(iv) Local residentsA (i), (iii) and (iv)B (i), (ii), (iii) and (iv)C (iii) onlyD (i) and (iii) only (2 marks)1.6 The term secondary stakeholders describes which group of stakeholders?A Stakeholders who conduct transactions with the 
-organisationB Stakeholders who have a contractual relationship with the organisationC Stakeholders who do not have a contractual relationship with the organisation (1 mark)
+1.1 'An organisation is a social arrangement which pursues collective........................................, which
+controls its own performance and which has a boundary separating it from its environment.'
+Which of the following words best completes this sentence?
 
-1.7 Which of the following organisations would rely most heavily on value for money indicators andefficiency rather than information on performance and profitability?A A private accountancy collegeB A local authorityC A small retailer (1 mark)1.8 ADB is a business which is owned by its workers. The workers share the profits and they each have avote on how the business is run.Which of the following best describes ADB?A Public sectorB Private sectorC Not-for-profitD Co-operative (2 marks)(Total = 13 marks)
+A Profits B Stakeholders
+
+C Goals D Tactics (2 marks)
+
+1.2 What is the term given to the idea that the combined output of a number of individuals working together
+will exceed that of the same individuals working separately?
+
+A Sympathy B Specialisation
+
+C Synergy D Systems thinking (2 marks)
+
+1.3 Which one of the following statements is true?
+
+A Limited company status means that a company is only allowed to trade up to a predetermined
+turnover level in any one year.
+
+B For organisations that have limited company status, ownership and control are legally separate.
+
+C The benefit of being a sole trader is that you have no personal liability for the debts of your
+business.
+
+D Ordinary partnerships offer the same benefits as limited companies but are usually formed by
+professionals such as doctors and solicitors. (2 marks)
+
+1.4 An organisation is owned and run by central government agencies. The organisation is best described as
+
+which of the following statements?
+
+A A voluntary sector organisation
+
+B A private sector organisation
+
+C A public sector organisation (1 mark)
+
+1.5 Which of the following groups may be considered to be stakeholders in the activities of a nuclear power
+station?
+
+(i) The government
+
+(ii) Environmental pressure groups
+
+(iii) Employees
+
+(iv) Local residents
+
+A (i), (iii) and (iv)
+
+B (i), (ii), (iii) and (iv)
+
+C (iii) only
+
+D (i) and (iii) only (2 marks)
+
+1.6 The term secondary stakeholders describes which group of stakeholders?
+
+A Stakeholders who conduct transactions with the 
+organisation
+
+B Stakeholders who have a contractual relationship with the organisation
+
+C Stakeholders who do not have a contractual relationship with the organisation (1 mark)
+
+1.7 Which of the following organisations would rely most heavily on value for money indicators and
+efficiency rather than information on performance and profitability?
+
+A A private accountancy college
+
+B A local authority
+
+C A small retailer (1 mark)
+
+1.8 ADB is a business which is owned by its workers. The workers share the profits and they each have a
+vote on how the business is run.
+Which of the following best describes ADB?
+
+A Public sector
+
+B Private sector
+
+C Not-for-profit
+
+D Co-operative (2 marks)
+
+(Total = 13 marks)
